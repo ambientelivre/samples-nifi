@@ -1,0 +1,15 @@
+[ {
+  "id" : 1,
+  "nome" : "Marcio",
+  "idade" : 20,
+  "estado" : "PARANA",
+  "ts_milli" : 1525526792098,
+  "ts" : "2018-05-03 10:10:10.123"
+}, {
+  "id" : 2,
+  "nome" : "Gisele",
+  "idade" : 30,
+  "estado" : "SANTA CATARINA",
+  "ts_milli" : 1505596792832,
+  "ts" : "2017-04-02 12:19:49.484"
+} ]
