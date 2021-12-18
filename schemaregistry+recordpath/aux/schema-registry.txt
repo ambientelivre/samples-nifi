@@ -1,0 +1,13 @@
+{
+ "namespace": "nifi",
+ "name": "person",
+ "type": "record",
+ "fields": [
+  { "name": "id",  "type": ["null","int"] },
+  { "name": "nome",  "type": ["null","string"] },
+  { "name": "idade",  "type": ["null","int"] },
+  { "name": "estado", "type": ["null","string"] },
+  { "name": "ts_milli", "type" : ["null","long"] },
+  { "name": "ts", "type": ["null","string"] }
+ ]
+}
