@@ -1,0 +1,23 @@
+{
+ "namespace": "nifi",
+ "name": "person",
+ "type": "record",
+ "fields": [
+  { "name": "id",  "type": ["null","string"] },
+  { "name": "rename_id",  "type": ["null","string"] },
+  { "name": "estado", "type": ["null","string"] },
+  { "name": "rename_estado", "type": ["null","string"] },
+  { "name": "unique_id", "type": ["null","string"] },
+  { "name": "ts_milli", "type" : {
+      "type" : "long",
+         "logicalType" : "timestamp-millis"
+          }
+  },
+  { "name": "date", "type": ["null","string"] },
+  { "name": "ts", "type": ["null","string"] },
+  { "name": "ts_tz", "type": ["null","string"] },
+  { "name": "current_ts", "type": ["null","string"] },
+  { "name": "gmt_time", "type": ["null","string"] },
+  { "name": "updated_by", "type": ["null","string"] }
+   ]
+}
