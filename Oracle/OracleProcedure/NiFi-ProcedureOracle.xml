@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template encoding-version="1.3">
+    <description></description>
+    <groupId>214089ec-017f-1000-8384-d658f1813414</groupId>
+    <name>NiFi-ProcedureOracle</name>
+    <snippet>
+        <labels>
+            <id>d134431b-574a-3760-0000-000000000000</id>
+            <parentGroupId>885c464e-a9ae-3487-0000-000000000000</parentGroupId>
+            <position>
+                <x>0.0</x>
+                <y>0.0</y>
+            </position>
+            <height>120.0</height>
+            <label>A procedure é executada no pré-select 
+e é necessario rodar com um SELECT,
+por isso foi colocado no select query o DUAL.</label>
+            <style>
+                <entry>
+                    <key>font-size</key>
+                    <value>12px</value>
+                </entry>
+            </style>
+            <width>272.0</width>
+        </labels>
+    </snippet>
+    <timestamp>02/23/2022 11:48:03 BRT</timestamp>
+</template>
